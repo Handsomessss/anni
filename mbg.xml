@@ -10,8 +10,8 @@
 		</commentGenerator>
 		<!-- 配置数据库连接 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
-			connectionURL="jdbc:mysql://localhost:3307/anni" userId="root"
-			password="root">
+			connectionURL="jdbc:mysql://localhost:3306/anni" userId="root"
+			password="746853">
 		</jdbcConnection>
 
 		<javaTypeResolver>
