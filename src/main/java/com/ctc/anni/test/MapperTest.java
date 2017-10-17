@@ -40,6 +40,7 @@ public class MapperTest {
 	 */
 	@Test
 	public void testCRUD(){
+		
 	/*	//1、创建SpringIOC容器
 		ApplicationContext ioc = new ClassPathXmlApplicationContext("applicationContext.xml");
 		//2、从容器中获取mapper
